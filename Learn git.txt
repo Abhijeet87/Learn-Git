@@ -1,3 +1,8 @@
-$ git config --global user.name "Abhijeet Sarkar"
-$ git config --global user.email abhijeet.sarkar@economical.com
+git config --global user.name "Abhijeet Sarkar"
+git config --global user.email "abhijeet.sarkar@economical.com"
 
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Abhijeet87/Learn-Git.git
+git push -u origin master
