@@ -1,0 +1,3 @@
+$ git config --global user.name "Abhijeet Sarkar"
+$ git config --global user.email abhijeet.sarkar@economical.com
+
